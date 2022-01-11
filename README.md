@@ -1,0 +1,1 @@
+# liferay-certifications73
